@@ -1,0 +1,4 @@
+﻿  calculator2.cpp
+D:\project\calculator2\calculator2\calculator2.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\project\calculator2\calculator2\calculator2.cpp(6): error C4700: uninitialized local variable 'x' used
+D:\project\calculator2\calculator2\calculator2.cpp(6): error C4700: uninitialized local variable 'y' used
